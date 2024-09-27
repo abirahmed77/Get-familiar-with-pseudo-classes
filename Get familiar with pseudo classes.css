@@ -1,3 +1,11 @@
 ul > li {
   font-weight: bold;
 }
+
+ul li:hover {
+  color: #4f8cc9;
+}
+
+ul li:nth-child(3) {
+  background-color: #176ade;
+}
